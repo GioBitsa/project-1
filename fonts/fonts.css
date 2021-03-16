@@ -1,0 +1,14 @@
+@font-face{
+    font-family: caslon-italic;
+    src: url(adobe-caslon-pro/ACaslonPro-Italic.otf);
+}
+
+@font-face{
+    font-family: avenir;
+    src: url(Metropolis/Metropolis-Regular.otf);
+}
+
+@font-face{
+    font-family: avenir-light;
+    src: url(Metropolis/Metropolis-Thin.otf);
+}
